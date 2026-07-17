@@ -1,6 +1,6 @@
 # Todo DevOps Application
 
-A full-stack Todo application built to demonstrate a complete DevOps workflow.
+A full-stack Todo application built to demonstrate complete DevOps workflow.
 
 ## Tech Stack
 
