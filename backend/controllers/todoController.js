@@ -71,6 +71,7 @@ const deleteTodo = async (req, res) => {
             message: err.message
         });
     }
+
 };
 
 module.exports = {
