@@ -2,16 +2,8 @@ const express = require("express");
 
 const router = express.Router();
 
-<<<<<<< HEAD
-const {
-    getTodos,
-    createTodo,
-    updateTodo,
-    deleteTodo
-} = require("../controllers/todoController");
-=======
 const { getTodos, createTodo, updateTodo, deleteTodo } = require("../controllers/todoController");
->>>>>>> e3e3eab (feat: add MongoDB and Docker Compose setup)
+
 
 router.get("/", getTodos);
 
